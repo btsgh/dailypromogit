@@ -1,0 +1,100 @@
+{
+  "pages": [
+    {
+      "id": "OAuth20",
+      "isDefault": true
+    },
+    {
+      "id": "GSheetsRWDAll",
+      "isDefault": false
+    },
+    {
+      "id": "GSheetsRWDSel1Column",
+      "isDefault": false
+    },
+    {
+      "id": "Firestore",
+      "isDefault": false
+    },
+    {
+      "id": "PostGreSQL",
+      "isDefault": false
+    },
+    {
+      "id": "Mongo",
+      "isDefault": false
+    },
+    {
+      "id": "ElasticSearch",
+      "isDefault": false
+    },
+    {
+      "id": "Oracle",
+      "isDefault": false
+    },
+    {
+      "id": "Redshift",
+      "isDefault": false
+    },
+    {
+      "id": "SMTP",
+      "isDefault": false
+    },
+    {
+      "id": "S3",
+      "isDefault": false
+    },
+    {
+      "id": "Airtable",
+      "isDefault": false
+    },
+    {
+      "id": "Hubspot",
+      "isDefault": false
+    },
+    {
+      "id": "Instance Set Up ",
+      "isDefault": false
+    },
+    {
+      "id": "Page1",
+      "isDefault": false
+    },
+    {
+      "id": "Page2",
+      "isDefault": false
+    },
+    {
+      "id": "Page3",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "unpublishedApplicationDetail": {
+    "navigationSetting": {
+      "showNavbar": true,
+      "orientation": "top",
+      "navStyle": "stacked",
+      "position": "static",
+      "itemStyle": "text",
+      "colorStyle": "light",
+      "logoAssetId": "658a5e09e054ed68d37c8bb5",
+      "logoConfiguration": "logoAndApplicationTitle",
+      "showSignIn": true
+    }
+  },
+  "color": "#FFEFDB",
+  "unpublishedCustomJSLibs": [
+    {
+      "uidString": "xmlParser_https://cdnjs.cloudflare.com/ajax/libs/fast-xml-parser/3.17.5/parser.min.js"
+    }
+  ],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}
