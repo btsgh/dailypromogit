@@ -67,6 +67,14 @@
     {
       "id": "Page3",
       "isDefault": false
+    },
+    {
+      "id": "Page4",
+      "isDefault": false
+    },
+    {
+      "id": "Page5",
+      "isDefault": false
     }
   ],
   "viewMode": false,
@@ -86,6 +94,7 @@
     }
   },
   "color": "#FFEFDB",
+  "icon": "globe",
   "unpublishedCustomJSLibs": [
     {
       "uidString": "xmlParser_https://cdnjs.cloudflare.com/ajax/libs/fast-xml-parser/3.17.5/parser.min.js"
