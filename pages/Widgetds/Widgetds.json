@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Page4",
-    "slug": "page4",
+    "name": "Widgetds",
+    "slug": "widgetds",
     "layouts": [
       {
         "viewMode": false,
@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 610,
+          "bottomRow": 510,
           "containerStyle": "none",
           "snapRows": 64,
           "parentRowSpace": 1,
@@ -28,7 +28,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Page4",
+        "id": "Widgetds",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -39,5 +39,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "659e225a5370b414aea89874_659e24cec86b200987853948"
+  "gitSyncId": "659e225a5370b414aea89874_659e24e6c86b20098785394b"
 }
