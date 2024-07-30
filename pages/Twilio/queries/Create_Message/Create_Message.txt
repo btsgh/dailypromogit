@@ -1,0 +1,1 @@
+{"To":"+919980332468","Fom":"+12086682625","Body":"{{Input1.text}}","command":"CREATE_MESSAGE","PageSize":"2","TWILIO_ACCOUNT_SID":"AC2a87b9da47819ad7112be54b7af1606c"}

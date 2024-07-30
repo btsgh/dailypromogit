@@ -1,0 +1,70 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "animateLoading": true,
+  "autoFocus": false,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 18,
+  "boxShadow": "none",
+  "defaultText": "",
+  "displayName": "Input",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicTriggerPathList": [],
+  "hideCard": false,
+  "iconAlign": "left",
+  "iconSVG": "/static/media/icon.f2c34197dbcf03595098986de898928f.svg",
+  "inputType": "TEXT",
+  "isDeprecated": false,
+  "isDisabled": false,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "fe6m60obv7",
+  "label": "Message to be broadcasted",
+  "labelAlignment": "left",
+  "labelPosition": "Top",
+  "labelStyle": "",
+  "labelTextSize": "0.875rem",
+  "labelWidth": 5,
+  "leftColumn": 3,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 22,
+  "mobileLeftColumn": 17,
+  "mobileRightColumn": 37,
+  "mobileTopRow": 15,
+  "originalBottomRow": 18,
+  "originalTopRow": 11,
+  "parentColumnSpace": 11.8125,
+  "parentId": "oihc4q7nbi",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "resetOnSubmit": true,
+  "responsiveBehavior": "fill",
+  "rightColumn": 59,
+  "searchTags": [
+    "form",
+    "text input",
+    "number",
+    "textarea"
+  ],
+  "shouldScrollContents": true,
+  "showStepArrows": false,
+  "tags": [
+    "Suggested",
+    "Inputs"
+  ],
+  "topRow": 11,
+  "type": "INPUT_WIDGET_V2",
+  "version": 2,
+  "widgetId": "vfj5agewch",
+  "widgetName": "Input1"
+}

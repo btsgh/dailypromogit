@@ -94,6 +94,10 @@
     {
       "id": "Widgetds",
       "isDefault": false
+    },
+    {
+      "id": "Twilio",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
