@@ -1,7 +1,6 @@
 {
-  "gitSyncId": "64c252a12e389c399f6f64ca_64c3a38d2e389c399f6f655b",
+  "gitSyncId": "66680954379f0f5cf8228344_2e717a2b-25e7-416c-9b8d-783e20b784b3",
   "unpublishedPage": {
-    "isHidden": false,
     "layouts": [
       {
         "dsl": {
@@ -12,12 +11,12 @@
           "detachFromLayout": true,
           "dynamicBindingPathList": [],
           "leftColumn": 0,
-          "minHeight": 550,
+          "minHeight": 590,
           "parentColumnSpace": 1,
           "parentRowSpace": 1,
           "rightColumn": 1224,
           "snapColumns": 64,
-          "snapRows": 53,
+          "snapRows": 57,
           "topRow": 0,
           "type": "CANVAS_WIDGET",
           "version": 89,
@@ -26,7 +25,7 @@
         }
       }
     ],
-    "name": "Airtable",
-    "slug": "airtable"
+    "name": "Page4",
+    "slug": "page4"
   }
 }

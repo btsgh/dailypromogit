@@ -99,6 +99,10 @@
     {
       "id": "Widgetds",
       "isDefault": false
+    },
+    {
+      "id": "Page4",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
