@@ -103,6 +103,10 @@
     {
       "id": "Twilio",
       "isDefault": false
+    },
+    {
+      "id": "CurrentRowIssue",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
