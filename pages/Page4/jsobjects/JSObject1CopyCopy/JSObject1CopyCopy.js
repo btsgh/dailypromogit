@@ -4,6 +4,7 @@ export default {
 	myFun1 () {
 		
 		showAlert('this is a success message')
+		showAlert('this is a test message')
 		//	write code here
 		//	this.myVar1 = [1,2,3]
 	},
