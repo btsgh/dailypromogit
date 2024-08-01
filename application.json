@@ -103,6 +103,10 @@
     {
       "id": "Page4",
       "isDefault": false
+    },
+    {
+      "id": "Movies",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
