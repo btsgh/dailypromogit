@@ -591,7 +591,7 @@
       "textSize": "0.875rem",
       "thousandSeparator": true,
       "validation": {
-        "max": "{{\n  (\n    (isNewRow, currentIndex, currentRow) => (\n JSObject1.myFun1(currentRow) \n    ))\n    (\n      Table1.isAddRowInProgress,\n      Table1.isAddRowInProgress ? -1 : Table1.editableCell.index,\n      Table1.isAddRowInProgress ? Table1.newRow : (Table1.processedTableData[Table1.editableCell.index] ||\n        Object.keys(Table1.processedTableData[0])\n          .filter(key => [\"__originalIndex__\", \"__primaryKey__\"].indexOf(key) === -1)\n          .reduce((prev, curr) => {\n            prev[curr] = \"\";\n            return prev;\n          }, {}))\n    )\n  }}\n  "
+        "max": "{{\n  (\n    (isNewRow, currentIndex, currentRow) => (\n JSObject1.myFun1(currentRow) \n    ))\n    (\n      Table1.isAddRowInProgress,\n      Table1.isAddRowInProgress ? -1 : Table1.editableCell.index,\n      Table1.isAddRowInProgress ? Table1.newRow : (Table1.processedTableData[Table1.editableCell.__originalIndex__] ||\n        Object.keys(Table1.processedTableData[0])\n          .filter(key => [\"__originalIndex__\", \"__primaryKey__\"].indexOf(key) === -1)\n          .reduce((prev, curr) => {\n            prev[curr] = \"\";\n            return prev;\n          }, {}))\n    )\n  }}\n  "
       },
       "verticalAlignment": "CENTER",
       "width": 150
