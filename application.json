@@ -107,6 +107,10 @@
     {
       "id": "CurrentRowIssue",
       "isDefault": false
+    },
+    {
+      "id": "Page4",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
