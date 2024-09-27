@@ -35,6 +35,8 @@
   "mobileRightColumn": 23,
   "mobileTopRow": 35,
   "onClick": "{{FindDocs.run()}}",
+  "originalBottomRow": 191,
+  "originalTopRow": 187,
   "parentColumnSpace": 12.578125,
   "parentId": "0",
   "parentRowSpace": 10,
