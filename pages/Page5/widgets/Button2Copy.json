@@ -34,7 +34,7 @@
   "mobileLeftColumn": 28,
   "mobileRightColumn": 44,
   "mobileTopRow": 35,
-  "onClick": "{{InsertDoc.run()}}",
+  "onClick": "{{Insert_movies1.run()}}",
   "originalBottomRow": 191,
   "originalTopRow": 187,
   "parentColumnSpace": 12.578125,
