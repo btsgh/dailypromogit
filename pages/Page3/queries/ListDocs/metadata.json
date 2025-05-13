@@ -60,6 +60,7 @@
     "executeOnLoad": false,
     "name": "ListDocs",
     "pageId": "Page3",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

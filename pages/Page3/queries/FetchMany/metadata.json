@@ -73,6 +73,7 @@
     "executeOnLoad": false,
     "name": "FetchMany",
     "pageId": "Page3",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

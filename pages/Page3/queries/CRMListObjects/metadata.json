@@ -20,6 +20,7 @@
     "executeOnLoad": false,
     "name": "CRMListObjects",
     "pageId": "Page3",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

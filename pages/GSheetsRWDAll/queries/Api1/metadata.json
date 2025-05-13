@@ -73,6 +73,7 @@
     "executeOnLoad": false,
     "name": "Api1",
     "pageId": "GSheetsRWDAll",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

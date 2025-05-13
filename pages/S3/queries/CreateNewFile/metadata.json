@@ -69,6 +69,7 @@
     "executeOnLoad": false,
     "name": "CreateNewFile",
     "pageId": "S3",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

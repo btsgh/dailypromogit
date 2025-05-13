@@ -73,6 +73,7 @@
     "executeOnLoad": true,
     "name": "FetchMany",
     "pageId": "GSheetsRWDAll",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }

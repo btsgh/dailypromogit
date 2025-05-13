@@ -99,6 +99,7 @@
     "executeOnLoad": true,
     "name": "FindDocs",
     "pageId": "Page2",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }

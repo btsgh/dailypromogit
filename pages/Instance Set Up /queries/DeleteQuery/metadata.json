@@ -140,6 +140,7 @@
     "executeOnLoad": false,
     "name": "DeleteQuery",
     "pageId": "Instance Set Up ",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

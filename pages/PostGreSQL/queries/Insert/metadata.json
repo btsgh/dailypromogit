@@ -30,6 +30,7 @@
     "executeOnLoad": false,
     "name": "Insert",
     "pageId": "PostGreSQL",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

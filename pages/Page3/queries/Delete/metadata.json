@@ -30,6 +30,7 @@
     "executeOnLoad": false,
     "name": "Delete",
     "pageId": "Page3",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

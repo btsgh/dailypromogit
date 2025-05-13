@@ -59,6 +59,7 @@
     "executeOnLoad": false,
     "name": "Update_movies1",
     "pageId": "CurrentRowIssue",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

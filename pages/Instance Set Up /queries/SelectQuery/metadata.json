@@ -159,6 +159,7 @@
     "executeOnLoad": true,
     "name": "SelectQuery",
     "pageId": "Instance Set Up ",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": true
   }
 }

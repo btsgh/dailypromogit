@@ -20,6 +20,7 @@
     "executeOnLoad": false,
     "name": "Api1",
     "pageId": "Airtable",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

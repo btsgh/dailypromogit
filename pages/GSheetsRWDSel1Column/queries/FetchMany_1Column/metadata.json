@@ -75,6 +75,7 @@
     "executeOnLoad": true,
     "name": "FetchMany_1Column",
     "pageId": "GSheetsRWDSel1Column",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }

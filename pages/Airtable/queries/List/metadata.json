@@ -20,6 +20,7 @@
     "executeOnLoad": true,
     "name": "List",
     "pageId": "Airtable",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }

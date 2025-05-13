@@ -75,6 +75,7 @@
     "executeOnLoad": false,
     "name": "FetchMany_1Column",
     "pageId": "Page3",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

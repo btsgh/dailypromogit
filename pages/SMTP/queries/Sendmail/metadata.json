@@ -36,6 +36,7 @@
     "executeOnLoad": false,
     "name": "Sendmail",
     "pageId": "SMTP",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

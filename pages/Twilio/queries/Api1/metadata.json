@@ -52,6 +52,7 @@
     "fullyQualifiedName": "Api1",
     "name": "Api1",
     "pageId": "Twilio",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

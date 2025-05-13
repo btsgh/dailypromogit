@@ -40,6 +40,7 @@
     "executeOnLoad": false,
     "name": "Api1",
     "pageId": "Page3",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

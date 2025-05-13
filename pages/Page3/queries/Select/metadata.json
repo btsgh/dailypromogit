@@ -29,6 +29,7 @@
     "executeOnLoad": false,
     "name": "Select",
     "pageId": "Page3",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

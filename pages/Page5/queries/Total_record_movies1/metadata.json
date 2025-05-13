@@ -61,6 +61,7 @@
     "executeOnLoad": true,
     "name": "Total_record_movies1",
     "pageId": "Page5",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }

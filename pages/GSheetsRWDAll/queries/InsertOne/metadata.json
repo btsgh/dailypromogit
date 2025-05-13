@@ -67,6 +67,7 @@
     "executeOnLoad": false,
     "name": "InsertOne",
     "pageId": "GSheetsRWDAll",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

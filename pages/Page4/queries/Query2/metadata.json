@@ -23,6 +23,7 @@
     "fullyQualifiedName": "Query2",
     "name": "Query2",
     "pageId": "Page4",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }

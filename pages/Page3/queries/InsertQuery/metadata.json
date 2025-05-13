@@ -25,6 +25,7 @@
     "executeOnLoad": false,
     "name": "InsertQuery",
     "pageId": "Page3",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

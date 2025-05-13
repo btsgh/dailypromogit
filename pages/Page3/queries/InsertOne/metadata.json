@@ -67,6 +67,7 @@
     "executeOnLoad": false,
     "name": "InsertOne",
     "pageId": "Page3",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

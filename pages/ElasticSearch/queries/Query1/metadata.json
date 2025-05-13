@@ -22,6 +22,7 @@
     "executeOnLoad": true,
     "name": "Query1",
     "pageId": "ElasticSearch",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }

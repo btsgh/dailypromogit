@@ -64,6 +64,7 @@
     "executeOnLoad": false,
     "name": "AddDocToCollection",
     "pageId": "Page3",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

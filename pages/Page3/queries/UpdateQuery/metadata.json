@@ -25,6 +25,7 @@
     "executeOnLoad": false,
     "name": "UpdateQuery",
     "pageId": "Page3",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

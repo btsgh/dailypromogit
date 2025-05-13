@@ -25,6 +25,7 @@
     "executeOnLoad": false,
     "name": "DeleteQuery",
     "pageId": "Page3",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

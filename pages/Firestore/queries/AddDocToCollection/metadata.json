@@ -64,6 +64,7 @@
     "executeOnLoad": false,
     "name": "AddDocToCollection",
     "pageId": "Firestore",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

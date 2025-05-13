@@ -124,6 +124,7 @@
     "executeOnLoad": false,
     "name": "InsertQuery",
     "pageId": "Instance Set Up ",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

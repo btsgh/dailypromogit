@@ -26,6 +26,7 @@
     "executeOnLoad": true,
     "name": "Select",
     "pageId": "PostGreSQL",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }

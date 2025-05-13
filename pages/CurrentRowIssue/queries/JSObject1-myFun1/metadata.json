@@ -30,6 +30,7 @@
     "fullyQualifiedName": "JSObject1.myFun1",
     "name": "myFun1",
     "pageId": "CurrentRowIssue",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

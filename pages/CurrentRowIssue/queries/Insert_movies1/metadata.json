@@ -55,6 +55,7 @@
     "executeOnLoad": false,
     "name": "Insert_movies1",
     "pageId": "CurrentRowIssue",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

@@ -25,6 +25,7 @@
     "executeOnLoad": true,
     "name": "SelectQuery",
     "pageId": "Page3",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": true
   }
 }

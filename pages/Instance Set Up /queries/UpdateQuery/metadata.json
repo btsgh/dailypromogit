@@ -125,6 +125,7 @@
     "executeOnLoad": false,
     "name": "UpdateQuery",
     "pageId": "Instance Set Up ",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

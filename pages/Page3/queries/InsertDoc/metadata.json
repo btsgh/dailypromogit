@@ -99,6 +99,7 @@
     "executeOnLoad": false,
     "name": "InsertDoc",
     "pageId": "Page3",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
